@@ -196,293 +196,1971 @@
 
       <div id="list" class="list">
 
-  
-<!-- ADM / 광전송 -->
-<div class="card" data-search="eci 이성원">
+<!-- ADM ECI(광단국) -->
+<div class="card" data-search="ADM ECI(광단국) 이성원 차장 02-3274-4106">
   <div class="left">
-    <div class="name">ECI(광단국)</div>
+    <div class="name">ADM</div>
     <div class="phone">02-3274-4106</div>
-    <div class="sub">이성원 · 차장</div>
+    <div class="sub">차장 · 이성원</div>
   </div>
-  <div class="right"><a class="btn" href="tel:0232744106">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:02-3274-4106">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="eci 이인">
+<div class="card" data-search="ADM ECI(광단국) 이인 과장 02-363-0313">
   <div class="left">
-    <div class="name">ECI(광단국)</div>
+    <div class="name">ADM</div>
     <div class="phone">02-363-0313</div>
-    <div class="sub">이인 · 과장</div>
+    <div class="sub">과장 · 이인</div>
   </div>
-  <div class="right"><a class="btn" href="tel:023630313">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:02-363-0313">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="프라임넷 차현호">
+<!-- 프라임넷 -->
+<div class="card" data-search="프라임넷(영남대 연장선 포함) 차현호 부장 010-8929-2167">
   <div class="left">
-    <div class="name">프라임넷</div>
+    <div class="name">프라임넷(영남대 연장선 포함)</div>
     <div class="phone">010-8929-2167</div>
-    <div class="sub">차현호 · 부장</div>
+    <div class="sub">부장 · 차현호 (070-7335-8114)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01089292167">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-8929-2167">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="프라임넷 이천영">
+<div class="card" data-search="프라임넷(영남대 연장선 포함) 이천영 이사 010-5311-3448">
   <div class="left">
-    <div class="name">프라임넷</div>
+    <div class="name">프라임넷(영남대 연장선 포함)</div>
     <div class="phone">010-5311-3448</div>
-    <div class="sub">이천영 · 이사</div>
+    <div class="sub">이사 · 이천영</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01053113448">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-5311-3448">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="아큐픽스 김민성">
+<!-- 아큐픽스 -->
+<div class="card" data-search="아큐픽스(연장선) 김민성 과장 010-4128-5965">
   <div class="left">
-    <div class="name">아큐픽스</div>
+    <div class="name">아큐픽스(연장선)</div>
     <div class="phone">010-4128-5965</div>
-    <div class="sub">김민성 · 과장</div>
+    <div class="sub">과장 · 김민성 (031-478-2383)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01041285965">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-4128-5965">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="아큐픽스 조장행">
+<div class="card" data-search="아큐픽스(연장선) 조장행 차장 010-6261-5102">
   <div class="left">
-    <div class="name">아큐픽스</div>
+    <div class="name">아큐픽스(연장선)</div>
     <div class="phone">010-6261-5102</div>
-    <div class="sub">조장행 · 차장</div>
+    <div class="sub">차장 · 조장행</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01062615102">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-6261-5102">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="골든엑세스 강희경">
+
+<!-- 골든엑세스(MUX) -->
+<div class="card" data-search="골든엑세스(MUX) 강희경 부사장 010-5012-2022">
   <div class="left">
-    <div class="name">골든엑세스</div>
+    <div class="name">골든엑세스(MUX)</div>
     <div class="phone">010-5012-2022</div>
-    <div class="sub">강희경 · 부사장</div>
+    <div class="sub">부사장 · 강희경 (031-423-2581)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01050122022">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-5012-2022">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="한정보통신 이상원">
+<!-- 한정보통신 -->
+<div class="card" data-search="한정보통신 이상원 이사 010-3425-9202">
   <div class="left">
     <div class="name">한정보통신</div>
     <div class="phone">010-3425-9202</div>
-    <div class="sub">이상원 · 이사</div>
+    <div class="sub">이사 · 이상원</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01034259202">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-3425-9202">전화걸기</a>
+  </div>
 </div>
 
-<!-- MUX -->
-<div class="card" data-search="부광정보통신 김제도">
+<!-- 부광정보통신 -->
+<div class="card" data-search="부광정보통신 김제도 소장 010-3820-2354">
   <div class="left">
     <div class="name">부광정보통신</div>
     <div class="phone">010-3820-2354</div>
-    <div class="sub">김제도 · 소장</div>
+    <div class="sub">소장 · 김제도</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01038202354">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-3820-2354">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="매크로 남성호">
+<!-- 매크로 -->
+<div class="card" data-search="매크로 남성호 이사 02-2671-2333">
   <div class="left">
     <div class="name">매크로</div>
     <div class="phone">02-2671-2333</div>
-    <div class="sub">남성호 · 이사</div>
+    <div class="sub">이사 · 남성호</div>
   </div>
-  <div class="right"><a class="btn" href="tel:0226712333">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:02-2671-2333">전화걸기</a>
+  </div>
+</div>
+
+
+<!-- SK C&C 화상설비 총괄 -->
+<div class="card" data-search="SK C&C 최일열 과장 02-6400-2121">
+  <div class="left">
+    <div class="name">SK C&C</div>
+    <div class="phone">02-6400-2121</div>
+    <div class="sub">과장 · 최일열</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-6400-2121">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="텔로드(ADM포함 as) 최영준 과장 02-2108-1115">
+  <div class="left">
+    <div class="name">텔로드</div>
+    <div class="phone">02-2108-1115</div>
+    <div class="sub">최영준 · 과장 (사내번호 : 322)</div>
+  </div>
+  <div class="right"><a class="btn" href="tel:02-2108-1115">전화걸기</a></div>
+</div>
+
+<div class="card" data-search="텔로드(ADM포함 as) 서창대 대리 02-2108-1115">
+  <div class="left">
+    <div class="name">텔로드</div>
+    <div class="phone">02-2108-1115</div>
+    <div class="sub">서창대 · 대리 (사내번호 : 351)</div>
+  </div>
+  <div class="right"><a class="btn" href="tel:02-2108-1115">전화걸기</a></div>
 </div>
 
 <!-- 정류기 -->
-<div class="card" data-search="유니티 안효도">
+<div class="card" data-search="유니티 안효도 사장 010-9339-4781">
   <div class="left">
     <div class="name">유니티</div>
     <div class="phone">010-9339-4781</div>
     <div class="sub">안효도 · 사장</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01093394781">전화걸기</a></div>
+  <div class="right"><a class="btn" href="tel:010-9339-4781">전화걸기</a></div>
 </div>
 
-<div class="card" data-search="썬일렉콤 김병기">
+<div class="card" data-search="유니티 황성원 차장 010-9988-5974">
+  <div class="left">
+    <div class="name">유니티</div>
+    <div class="phone">010-9988-5974</div>
+    <div class="sub">황성원 · 차장</div>
+  </div>
+  <div class="right"><a class="btn" href="tel:010-9988-5974">전화걸기</a></div>
+</div>
+
+<div class="card" data-search="썬일렉콤 박찬경 대리 031-791-9888">
+  <div class="left">
+    <div class="name">썬일렉콤</div>
+    <div class="phone">031-791-9888</div>
+    <div class="sub">박찬경 · 대리</div>
+  </div>
+  <div class="right"><a class="btn" href="tel:031-791-9888">전화걸기</a></div>
+</div>
+
+
+<div class="card" data-search="썬일렉콤 김병기 이사 010-8778-2284">
   <div class="left">
     <div class="name">썬일렉콤</div>
     <div class="phone">010-8778-2284</div>
-    <div class="sub">김병기 · 이사</div>
+    <div class="sub">김병기 · 이사 031-791-9888</div>
   </div>
   <div class="right"><a class="btn" href="tel:01087782284">전화걸기</a></div>
 </div>
 
-<div class="card" data-search="썬일렉콤 김황기">
+<div class="card" data-search="썬일렉콤 김황기 부장 010-9149-8337">
   <div class="left">
     <div class="name">썬일렉콤</div>
     <div class="phone">010-9149-8337</div>
-    <div class="sub">김황기 · 부장</div>
+    <div class="sub">김황기 · 부장 031-791-9888</div>
   </div>
   <div class="right"><a class="btn" href="tel:01091498337">전화걸기</a></div>
 </div>
 
-<!-- 화상설비 -->
-<div class="card" data-search="신영시스템 이선영">
+<div class="card" data-search="테크노파워 02-3392-4866">
+  <div class="left">
+    <div class="name">테크노파워</div>
+    <div class="phone">010-3753-3330</div>
+    <div class="sub">---</div>
+  </div>
+  <div class="right"><a class="btn" href="tel:0107533330">전화걸기</a></div>
+</div>
+
+
+<!-- 신영시스템 일반화상 대공간화상 -->
+<div class="card" data-search="신영시스템 최근택 사장 031-469-4260">
+  <div class="left">
+    <div class="name">신영시스템</div>
+    <div class="phone">031-469-4260</div>
+    <div class="sub">사장 · 최근택</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:031-469-4260">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="신영시스템 주화규 부장 031-469-4260">
+  <div class="left">
+    <div class="name">신영시스템</div>
+    <div class="phone">031-469-4260</div>
+    <div class="sub">부장 · 주화규</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:031-469-4260">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="신영시스템 이선영 과장 010-3267-6758">
   <div class="left">
     <div class="name">신영시스템</div>
     <div class="phone">010-3267-6758</div>
-    <div class="sub">이선영 · 과장</div>
+    <div class="sub">과장 · 이선영 (031-469-6758)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01032676758">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-3267-6758">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="엘트로닉스 신상일">
+<!-- 엘트로닉스 OTX, ORX -->
+<div class="card" data-search="엘트로닉스 오세종 대리 02-890-3140">
+  <div class="left">
+    <div class="name">엘트로닉스</div>
+    <div class="phone">02-890-3140</div>
+    <div class="sub">대리 · 오세종</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-890-3140">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="엘트로닉스 신상일 과장 010-3369-8623">
   <div class="left">
     <div class="name">엘트로닉스</div>
     <div class="phone">010-3369-8623</div>
-    <div class="sub">신상일 · 과장</div>
+    <div class="sub">과장 · 신상일</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01033698623">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-3369-8623">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="다모 한종희">
+<div class="card" data-search="엘트로닉스 김병학 대리 02-890-3145">
+  <div class="left">
+    <div class="name">엘트로닉스</div>
+    <div class="phone">02-890-3145</div>
+    <div class="sub">대리 · 김병학</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-890-3145">전화걸기</a>
+  </div>
+</div>
+
+<!-- 다모 프로그램 -->
+<div class="card" data-search="다모 한종희 과장 010-3362-1545">
   <div class="left">
     <div class="name">다모</div>
     <div class="phone">010-3362-1545</div>
-    <div class="sub">한종희 · 과장</div>
+    <div class="sub">과장 · 한종희 (031-469-4262)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01033621545">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-3362-1545">전화걸기</a>
+  </div>
 </div>
 
-<!-- DVR -->
-<div class="card" data-search="디비시스 정승호">
+<!-- 디비시스 DVR -->
+<div class="card" data-search="디비시스 정승호 팀장 010-7654-6704">
   <div class="left">
     <div class="name">디비시스</div>
     <div class="phone">010-7654-6704</div>
-    <div class="sub">정승호 · 팀장</div>
+    <div class="sub">팀장 · 정승호 (1688-8648 콜센터)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01076546704">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-7654-6704">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="디비시스 전병욱">
+<div class="card" data-search="디비시스 전병욱 대리 010-5049-5449">
   <div class="left">
     <div class="name">디비시스</div>
     <div class="phone">010-5049-5449</div>
-    <div class="sub">전병욱 · 대리</div>
+    <div class="sub">대리 · 전병욱</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01050495449">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-5049-5449">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="시큐인포 박성환">
+<div class="card" data-search="디비시스 정희선 031-278-3941">
+  <div class="left">
+    <div class="name">디비시스</div>
+    <div class="phone">031-278-3941</div>
+    <div class="sub">정희선</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:031-278-3941">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="테크윈 AS 1588-5772">
+  <div class="left">
+    <div class="name">테크윈</div>
+    <div class="phone">1588-5772</div>
+    <div class="sub">AS 센터</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:1588-5772">전화걸기</a>
+  </div>
+</div>
+
+
+<div class="card" data-search="테크윈 이현수 AS 010-3530-8802">
+  <div class="left">
+    <div class="name">테크윈</div>
+    <div class="phone">010-3530-8802</div>
+    <div class="sub">AS · 이현수(AS 센터 : 1588-5772)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3530-8802">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="테크윈 조아전자 a/s 053-552-8802">
+  <div class="left">
+    <div class="name">테크윈</div>
+    <div class="phone">053-552-8802</div>
+    <div class="sub">a/s · 조아전자</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-552-8802">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="시큐인포 박성환 010-4515-5882">
   <div class="left">
     <div class="name">시큐인포</div>
     <div class="phone">010-4515-5882</div>
     <div class="sub">박성환</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01045155882">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-4515-5882">전화걸기</a>
+  </div>
 </div>
 
-<!-- 열차무선 -->
-<div class="card" data-search="삼성sds 김홍립">
+<div class="card" data-search="일진컴퓨터(모니터류) 박진우 010-3560-5835">
+  <div class="left">
+    <div class="name">일진컴퓨터(모니터류)</div>
+    <div class="phone">010-3560-5835</div>
+    <div class="sub">박진우</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3560-5835">전화걸기</a>
+  </div>
+</div>
+
+
+<!-- 참조은정보통신 카메라/모니터 -->
+<div class="card" data-search="참조은정보통신 배민호 대리 010-9555-1895">
+  <div class="left">
+    <div class="name">참조은정보통신</div>
+    <div class="phone">010-9555-1895</div>
+    <div class="sub">대리 · 배민호 (053-471-9100)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9555-1895">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="참조은정보통신 권팔식 이사 010-2613-3400">
+  <div class="left">
+    <div class="name">참조은정보통신</div>
+    <div class="phone">010-2613-3400</div>
+    <div class="sub">이사 · 권팔식 (053-741-1134)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2613-3400">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="참조은정보통신 김영일 과장 010-3421-2238">
+  <div class="left">
+    <div class="name">참조은정보통신</div>
+    <div class="phone">010-3421-2238</div>
+    <div class="sub">과장 · 김영일</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3421-2238">전화걸기</a>
+  </div>
+</div>
+
+<!-- 진명 I&C 카메라/모니터 -->
+<div class="card" data-search="진명 I&C 최성근 부장 010-3171-4670">
+  <div class="left">
+    <div class="name">진명 I&C</div>
+    <div class="phone">010-3171-4670</div>
+    <div class="sub">부장 · 최성근 (053-426-6900)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3171-4670">전화걸기</a>
+  </div>
+</div>
+
+<!-- 삼주전자 화상설비 -->
+<div class="card" data-search="삼주전자 양진호 부장 010-4508-9400">
+  <div class="left">
+    <div class="name">삼주전자</div>
+    <div class="phone">010-4508-9400</div>
+    <div class="sub">부장 · 양진호 (053-942-8200)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-4508-9400">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="거산전자통신 a/s 02-2026-6000">
+  <div class="left">
+    <div class="name">거산전자통신(문자발생기)</div>
+    <div class="phone">02-2026-6000</div>
+    <div class="sub">a/s</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-2026-6000">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="한국정보네트웍스 최수호 과장 053-351-7312">
+  <div class="left">
+    <div class="name">한국정보네트웍스</div>
+    <div class="phone">053-351-7312</div>
+    <div class="sub">과장 · 최수호</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-351-7312">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="엘림 김홍석 과장 0312577157 01092796682">
+  <div class="left">
+    <div class="name">엘림</div>
+    <div class="phone">010-9279-6682</div>
+    <div class="sub">과장 · 김홍석 · 031-257-7157</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9279-6682">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="엘림 현성원 차장 01038997156">
+  <div class="left">
+    <div class="name">엘림</div>
+    <div class="phone">010-3899-7156</div>
+    <div class="sub">차장 · 현성원</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01038997156">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="SEEEYES 오희석 0317305822">
+  <div class="left">
+    <div class="name">SEEEYES</div>
+    <div class="phone">031-730-5822</div>
+    <div class="sub">오희석</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0317305822">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="SEEEYES 고순종 부장 0317305808">
+  <div class="left">
+    <div class="name">SEEEYES</div>
+    <div class="phone">031-730-5808</div>
+    <div class="sub">부장 · 고순종</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0317305808">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="삼주전자 고재원 과장 0539428200 01028240806">
+  <div class="left">
+    <div class="name">삼주전자</div>
+    <div class="phone">010-2824-0806</div>
+    <div class="sub">과장 · 고재원 · 053-942-8200</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01028240806">전화걸기</a>
+  </div>
+</div>
+
+<!-- 삼성SDS 열차무선 총괄 -->
+<div class="card" data-search="삼성SDS 김홍립 과장 02-3429-3497">
   <div class="left">
     <div class="name">삼성SDS</div>
     <div class="phone">02-3429-3497</div>
-    <div class="sub">김홍립 · 과장</div>
+    <div class="sub">과장 · 김홍립</div>
   </div>
-  <div class="right"><a class="btn" href="tel:0234293497">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:02-3429-3497">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="ktc 안창하">
+<!-- KTC 기지국/휴대국 -->
+<div class="card" data-search="KTC 안창하 이사 032-579-2233">
   <div class="left">
     <div class="name">KTC</div>
     <div class="phone">032-579-2233</div>
-    <div class="sub">안창하 · 이사</div>
+    <div class="sub">이사 · 안창하 (휴대: 010-6555-7852)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:0325792233">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-6555-7852">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="ktc 이덕찬">
+<div class="card" data-search="KTC 지형석 부장 010-6555-7852">
+  <div class="left">
+    <div class="name">KTC</div>
+    <div class="phone">010-6555-7852</div>
+    <div class="sub">부장 · 지형석 (회사: 010-6555-7852)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-6555-7852">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="KTC 안기철 과장 0325792235">
+  <div class="left">
+    <div class="name">KTC</div>
+    <div class="phone">032-579-2235</div>
+    <div class="sub">과장 · 안기철</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0325792235">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="KTC 이덕찬 01073111811">
   <div class="left">
     <div class="name">KTC</div>
     <div class="phone">010-7311-1811</div>
     <div class="sub">이덕찬</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01073111811">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:01073111811">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="ktc 지형석">
+<div class="card" data-search="KTC 지영택 이사 0325792233">
   <div class="left">
     <div class="name">KTC</div>
-    <div class="phone">010-6555-7852</div>
-    <div class="sub">지형석 · 부장</div>
+    <div class="phone">032-579-2233</div>
+    <div class="sub">이사 · 지영택</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01065557852">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:0325792233">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="아함전자 이영신">
+<div class="card" data-search="삼성 SDS 정연건 0264840193 01058800465">
+  <div class="left">
+    <div class="name">삼성 SDS</div>
+    <div class="phone">01058800465</div>
+    <div class="sub">정연건 · 02-6484-0193</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01058800465">전화걸기</a>
+  </div>
+</div>
+
+
+<!-- SK C&C 사령전화 설비 -->
+<div class="card" data-search="SK C&C 조완희 과장 010-8743-3195">
+  <div class="left">
+    <div class="name">SK C&C</div>
+    <div class="phone">010-8743-3195</div>
+    <div class="sub">과장 · 조완희 (02-2259-2891)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-8743-3195">전화걸기</a>
+  </div>
+</div>
+
+<!-- 아함전자 복합통신 -->
+<div class="card" data-search="아함전자 이영신 차장 010-6745-6024">
   <div class="left">
     <div class="name">아함전자</div>
     <div class="phone">010-6745-6024</div>
-    <div class="sub">이영신 · 차장</div>
+    <div class="sub">차장 · 이영신 (032-611-6426)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01067456024">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-6745-6024">전화걸기</a>
+  </div>
 </div>
 
-<!-- 기타 -->
-<div class="card" data-search="우영정보통신 홍순철">
+<!-- 오라시스템 전기시계 설비 -->
+<div class="card" data-search="오라시스템 박성욱 이사 02-837-4500">
+  <div class="left">
+    <div class="name">오라시스템</div>
+    <div class="phone">02-837-4500</div>
+    <div class="sub">이사 · 박성욱 (모시계/부모시계/자시계)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-837-4500">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="오라시스템 정승룡 대리 010-9935-4500">
+  <div class="left">
+    <div class="name">오라시스템</div>
+    <div class="phone">010-9935-4500</div>
+    <div class="sub">대리 · 정승룡 (A/S 관련)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9935-4500">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="오라시스템 김성진 사원 028374500 01028672884">
+  <div class="left">
+    <div class="name">오라시스템</div>
+    <div class="phone">010-2867-2884</div>
+    <div class="sub">사원 · 김성진 · 02-837-4500</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01028672884">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="오라시스템 박승욱 전무 028374500 01033698611">
+  <div class="left">
+    <div class="name">오라시스템</div>
+    <div class="phone">010-3369-8611</div>
+    <div class="sub">전무 · 박승욱 · 02-837-4500</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01033698611">전화걸기</a>
+  </div>
+</div>
+
+
+
+<!-- 동우비젼 예비품납품 -->
+<div class="card" data-search="동우비젼 홍순민 대리 010-2723-0928">
+  <div class="left">
+    <div class="name">동우비젼</div>
+    <div class="phone">010-2723-0928</div>
+    <div class="sub">대리 · 홍순민 (02-866-1180)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2723-0928">전화걸기</a>
+  </div>
+</div>
+
+<!-- 일신이디아이 자동안내방송 -->
+
+<div class="card" data-search="일신이디아이 김인석 과장 010-9962-1912">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone">010-9962-1912</div>
+    <div class="sub">과장 · 김인석 (031-980-7600)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9962-1912">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="일신이디아이 이길수 0319807631 01062967777">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone">010-6296-7777</div>
+    <div class="sub">031-980-7631 (AS담당 전화) · 이길수</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01062967777">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="일신이디아이 박윤영 대리 0319807610 01036730804">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone">010-3673-0804</div>
+    <div class="sub">대리 · 박윤영 · 031-980-7610(영업부)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01036730804">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="일신이디아이 조성민 과장 01033398423">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone">010-3339-8423</div>
+    <div class="sub">과장 · 조성민</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01033398423">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="일신이디아이 김성진 0319807637 01022953930">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone">010-2295-3930</div>
+    <div class="sub">031-980-7637 · 김성진</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01022953930">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="일신이디아이 문형묵 0319807600 01092464114">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone">010-9246-4114</div>
+    <div class="sub">031-980-7600 · 문형묵</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01092464114">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="일신이디아이 안종수 부장 0319807612">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone"></div>
+    <div class="sub">부장 · 안종수 · 031-980-7612</div>
+  </div>
+  <div class="right">
+   <a class="btn" href="tel:0319807612">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="일신이디아이 최종면 차장 0319807641 01088640491">
+  <div class="left">
+    <div class="name">일신이디아이</div>
+    <div class="phone">01088640491</div>
+    <div class="sub">차장 · 최종면 · 031-980-7641</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01088640491">전화걸기</a>
+  </div>
+</div>
+
+
+<div class="card" data-search="화성E&A 금강엘이디제작소 정원중 부장 0537662471 01089142471">
+  <div class="left">
+    <div class="name">화성E&A 금강엘이디제작소</div>
+    <div class="phone">01089142471</div>
+    <div class="sub">부장 · 정원중 · 053-766-2471</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01089142471">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="대우정보시스템 김현석 차장 0237046356 01043635321">
+  <div class="left">
+    <div class="name">대우정보시스템 ㈜</div>
+    <div class="phone">01043635321</div>
+    <div class="sub">차장 · 김현석 · 02-3704-6356</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01043635321">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="유오시스템즈 김병래 부장 0314766504 0113082898">
+  <div class="left">
+    <div class="name">유오시스템즈</div>
+    <div class="phone">0113082898</div>
+    <div class="sub">부장 · 김병래 · 031-476-6504</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0113082898">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="유오시스템즈 서병준 과장 01199229593">
+  <div class="left">
+    <div class="name">유오시스템즈</div>
+    <div class="phone">01199229593</div>
+    <div class="sub">과장 · 서병준</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01199229593">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="에버렉스 김종길 이사 0175538080">
+  <div class="left">
+    <div class="name">에버렉스</div>
+    <div class="phone">0175538080</div>
+    <div class="sub">이사 · 김종길</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0175538080">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="에버렉스 최상권 차장 01197607393">
+  <div class="left">
+    <div class="name">에버렉스</div>
+    <div class="phone">01197607393</div>
+    <div class="sub">차장 · 최상권</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01197607393">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="에버렉스 신재관 부사장 01199138705">
+  <div class="left">
+    <div class="name">에버렉스</div>
+    <div class="phone">01199138705</div>
+    <div class="sub">부사장 · 신재관</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01199138705">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="에버렉스 방지언 차장 0313204858 0192032950">
+  <div class="left">
+    <div class="name">에버렉스</div>
+    <div class="phone">0192032950</div>
+    <div class="sub">차장 · 방지언 · 031-320-4858</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0192032950">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 김태형 이사 01082440160">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01082440160</div>
+    <div class="sub">이사 · 김태형</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01082440160">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 정종필 이사 HSE 01045859973">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01045859973</div>
+    <div class="sub">이사 · 정종필(HSE)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01045859973">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 정홍철 부장 LSE 01063060000">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01063060000</div>
+    <div class="sub">부장 · 정홍철(LSE)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01063060000">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 이성철 부장 LSE 01066117262">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01066117262</div>
+    <div class="sub">부장 · 이성철(LSE)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01066117262">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 방지언 부장 01022032950">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01022032950</div>
+    <div class="sub">부장 · 방지언</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01022032950">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 정진생 01095303664">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01095303664</div>
+    <div class="sub">정진생</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01095303664">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 최상진 01087607393">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01087607393</div>
+    <div class="sub">최상진</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01087607393">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="원테크놀러지 한공진 대리 LCD 01058994210">
+  <div class="left">
+    <div class="name">원테크놀러지</div>
+    <div class="phone">01058994210</div>
+    <div class="sub">대리 · 한공진(LCD)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01058994210">전화걸기</a>
+  </div>
+</div>
+
+
+<div class="card" data-search="에이스블루 김성곤 01093651463">
+  <div class="left">
+    <div class="name">에이스블루</div>
+    <div class="phone">01093651463</div>
+    <div class="sub">김성곤</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01093651463">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="동경티앤씨 안국모 대표이사 0236672340 01052261942">
+  <div class="left">
+    <div class="name">동경티앤씨</div>
+    <div class="phone">01052261942</div>
+    <div class="sub">대표이사 · 안국모 · 02-3667-2340</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01052261942">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="에릭스 LG 박호동 과장 0534218088 01035240508">
+  <div class="left">
+    <div class="name">에릭스 LG</div>
+    <div class="phone">01035240508</div>
+    <div class="sub">과장 · 박호동 · 053-421-8088</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01035240508">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="에릭스 LG 박준규 부장 0534218088 01056758226">
+  <div class="left">
+    <div class="name">에릭스 LG</div>
+    <div class="phone">01056758226</div>
+    <div class="sub">부장 · 박준규 · 053-421-8088</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01056758226">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="유니온테크 임태식 부장 0536518778 01035391423">
+  <div class="left">
+    <div class="name">유니온테크</div>
+    <div class="phone">01035391423</div>
+    <div class="sub">부장 · 임태식 · 053-651-8778</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01035391423">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="SKY COM 강소영 부장 028903399 01063124108">
+  <div class="left">
+    <div class="name">SKY COM</div>
+    <div class="phone">01063124108</div>
+    <div class="sub">부장 · 강소영 · 02-890-3399</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01063124108">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="북대구전화국 BCN실 0533417071">
+  <div class="left">
+    <div class="name">북대구전화국 BCN실</div>
+    <div class="phone">0533417071</div>
+    <div class="sub">PRI 관련</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0533417071">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="제일통신 박창운 과장 024676695">
+  <div class="left">
+    <div class="name">제일통신</div>
+    <div class="phone">024676695</div>
+    <div class="sub">과장 · 박창운</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:024676695">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="아이비티 선영석 전무 0234241977">
+  <div class="left">
+    <div class="name">㈜아이비티</div>
+    <div class="phone">0234241977</div>
+    <div class="sub">전무 · 선영석</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0234241977">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="아이비티 박진안 차장 0629517979">
+  <div class="left">
+    <div class="name">㈜아이비티</div>
+    <div class="phone">0629517979</div>
+    <div class="sub">차장 · 박진안</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0629517979">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="LG전자 권원순 대리 간이교환기 0534218088">
+  <div class="left">
+    <div class="name">LG전자</div>
+    <div class="phone">0534218088</div>
+    <div class="sub">대리 · 권원순(간이교환기)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0534218088">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="유진정보통신 황유모 대표 0537424600">
+  <div class="left">
+    <div class="name">유진정보통신</div>
+    <div class="phone">0537424600</div>
+    <div class="sub">대표 · 황유모</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0537424600">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="LINC 김인규 팀장 0539583313 01071612948">
+  <div class="left">
+    <div class="name">LINC</div>
+    <div class="phone">01071612948</div>
+    <div class="sub">팀장 · 김인규 · 053-958-3313</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01071612948">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="LINC 김현조 과장 07087353313 01055332659">
+  <div class="left">
+    <div class="name">LINC</div>
+    <div class="phone">01055332659</div>
+    <div class="sub">과장 · 김현조 · 070-8735-3313</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01055332659">전화걸기</a>
+  </div>
+</div>
+
+
+<div class="card" data-search="한국ID 송찬호 사장 01042203633">
+  <div class="left">
+    <div class="name">한국ID</div>
+    <div class="phone">01042203633</div>
+    <div class="sub">사장 · 송찬호</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01042203633">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="LG키폰 김정권 01055121213">
+  <div class="left">
+    <div class="name">LG키폰</div>
+    <div class="phone">01055121213</div>
+    <div class="sub">김정권</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01055121213">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="시큐어넷 김재호 차장 비상전화 역간직통전화 0221663449">
+  <div class="left">
+    <div class="name">시큐어넷</div>
+    <div class="phone">0221663449</div>
+    <div class="sub">차장 · 김재호 ·0221663449</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:0221663449">전화걸기</a>
+  </div>
+</div>
+
+
+<div class="card" data-search="우영정보통신 홍순철 실장 비상전화 역간직통전화029987755 01036685975">
   <div class="left">
     <div class="name">우영정보통신</div>
-    <div class="phone">010-3668-5975</div>
-    <div class="sub">홍순철 · 실장</div>
+    <div class="phone">01036685975</div>
+    <div class="sub">실장 · 홍순철 · 02-998-7755</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01036685975">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:01036685975">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="휴먼케어 최성전">
+<div class="card" data-search="이지솔루션 이성철 대표 비상전화 역간직통전화 0549757262 01066117262">
+  <div class="left">
+    <div class="name">이지솔루션</div>
+    <div class="phone">01066117262</div>
+    <div class="sub">대표 · 이성철 · 054-975-7262</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01066117262">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="이지솔루션 정갑용 부장 비상전화 역간직통전화 01063008523">
+  <div class="left">
+    <div class="name">이지솔루션</div>
+    <div class="phone">01063008523</div>
+    <div class="sub">부장 · 정갑용</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01063008523">전화걸기</a>
+  </div>
+</div>
+
+
+<!-- TK-1000 녹음전화기 -->
+<div class="card" data-search="태경 I.D.S 02-849-3178">
+  <div class="left">
+    <div class="name">태경 I.D.S</div>
+    <div class="phone">02-849-3178</div>
+    <div class="sub">TK-1000 녹음전화기</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-849-3178">전화걸기</a>
+  </div>
+</div>
+
+<!-- MS전자통신 녹음장치 -->
+<div class="card" data-search="MS전자통신 김창근 차장 010-9050-6480">
+  <div class="left">
+    <div class="name">MS전자통신</div>
+    <div class="phone">010-9050-6480</div>
+    <div class="sub">차장 · 김창근 (영업)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9050-6480">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="MS전자통신 권희동 차장 010-5480-0145">
+  <div class="left">
+    <div class="name">MS전자통신</div>
+    <div class="phone">010-5480-0145</div>
+    <div class="sub">차장 · 권희동 (A/S)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-5480-0145">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="MS전자통신 김기융 대리 010-8593-7632">
+  <div class="left">
+    <div class="name">MS전자통신</div>
+    <div class="phone">010-8593-7632</div>
+    <div class="sub">대리 · 김기융 (S/W)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-8593-7632">전화걸기</a>
+  </div>
+</div>
+
+<!-- 한길핸디케어 음성안내유도기 -->
+<div class="card" data-search="한길핸디케어 김철 이사 031-431-2005">
+  <div class="left">
+    <div class="name">한길핸디케어</div>
+    <div class="phone">031-431-2005</div>
+    <div class="sub">이사 · 김철 (현재)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:031-431-2005">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="한길핸디케어 최성호 대리 010-4324-5520">
+  <div class="left">
+    <div class="name">한길핸디케어</div>
+    <div class="phone">010-4324-5520</div>
+    <div class="sub">대리 · 최성호 (031-431-2005)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-4324-5520">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="한길핸디케어 이선관 과장 010-9274-0211">
+  <div class="left">
+    <div class="name">한길핸디케어</div>
+    <div class="phone">010-9274-0211</div>
+    <div class="sub">과장 · 이선관 (A/S 관련)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9274-0211">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="한길핸디케어 김규성 과장 010-8244-3211">
+  <div class="left">
+    <div class="name">한길핸디케어</div>
+    <div class="phone">010-8244-3211</div>
+    <div class="sub">과장 · 김규성</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-8244-3211">전화걸기</a>
+  </div>
+</div>
+
+<!-- 휴먼케어 A/S 담당 -->
+<div class="card" data-search="휴먼케어 010-3355-2995">
+  <div class="left">
+    <div class="name">휴먼케어</div>
+    <div class="phone">010-3355-2995</div>
+    <div class="sub">A/S 담당</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3355-2995">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="휴먼케어 최성전 과장 010-8930-0799">
   <div class="left">
     <div class="name">휴먼케어</div>
     <div class="phone">010-8930-0799</div>
-    <div class="sub">최성전 · 과장</div>
+    <div class="sub">과장 · 최성전 (031-486-9015~7)</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01089300799">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-8930-0799">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="AK정보통신 홍지택">
+<!-- 배선반 - krone -->
+<div class="card" data-search="krone 윤종천 02-583-7479">
+  <div class="left">
+    <div class="name">krone</div>
+    <div class="phone">02-583-7479</div>
+    <div class="sub">배선반 · 윤종천</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-583-7479">전화걸기</a>
+  </div>
+</div>
+
+<!-- 배선반 - 국제 -->
+<div class="card" data-search="국제 손동식 02-338-3388">
+  <div class="left">
+    <div class="name">국제</div>
+    <div class="phone">02-338-3388</div>
+    <div class="sub">배선반 · 손동식</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-338-3388">전화걸기</a>
+  </div>
+</div>
+
+<!-- UPS/AVR - 영신엔지니어링 -->
+<div class="card" data-search="영신엔지니어링 신현봉 부장 010-3544-0152">
+  <div class="left">
+    <div class="name">영신엔지니어링</div>
+    <div class="phone">010-3544-0152</div>
+    <div class="sub">부장 · 신현봉 (UPS/AVR)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3544-0152">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="영신엔지니어링 김형욱 계장 010-6294-1848">
+  <div class="left">
+    <div class="name">영신엔지니어링</div>
+    <div class="phone">010-6294-1848</div>
+    <div class="sub">계장 · 김형욱 (UPS/AVR)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-6294-1848">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="영신엔지니어링 서상철 010-7687-3000">
+  <div class="left">
+    <div class="name">영신엔지니어링</div>
+    <div class="phone">010-7687-3000</div>
+    <div class="sub">서상철 (UPS/AVR)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-7687-3000">전화걸기</a>
+  </div>
+</div>
+
+<!-- UPS/AVR - 세방 -->
+<div class="card" data-search="세방 이진환 부장 010-2062-8294">
+  <div class="left">
+    <div class="name">세방</div>
+    <div class="phone">010-2062-8294</div>
+    <div class="sub">부장 · 이진환 (UPS/AVR)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2062-8294">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="세방 유형석 차장 010-3785-0733">
+  <div class="left">
+    <div class="name">세방</div>
+    <div class="phone">010-3785-0733</div>
+    <div class="sub">차장 · 유형석 (UPS/AVR)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3785-0733">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="세방 신동명 팀장 010-5334-5307">
+  <div class="left">
+    <div class="name">세방</div>
+    <div class="phone">010-5334-5307</div>
+    <div class="sub">팀장 · 신동명 (UPS/AVR)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-5334-5307">전화걸기</a>
+  </div>
+</div>
+
+<!-- UPS/배터리 - 에너시스코리아 -->
+<div class="card" data-search="에너시스코리아 02-501-0031">
+  <div class="left">
+    <div class="name">에너시스코리아</div>
+    <div class="phone">02-501-0031</div>
+    <div class="sub">BATTERY</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:02-501-0031">전화걸기</a>
+  </div>
+</div>
+
+<!-- UPS/AVR - 아세아전기㈜ -->
+<div class="card" data-search="아세아전기㈜ 조성례 과장 010-9880-9052">
+  <div class="left">
+    <div class="name">아세아전기㈜</div>
+    <div class="phone">010-9880-9052</div>
+    <div class="sub">과장 · 조성례 (UPS/AVR)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9880-9052">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="아세아전기㈜ 권영훈 010-2013-0947">
+  <div class="left">
+    <div class="name">아세아전기㈜</div>
+    <div class="phone">010-2013-0947</div>
+    <div class="sub">권영훈 (UPS 제조사)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2013-0947">전화걸기</a>
+  </div>
+</div>
+
+<!-- BATTERY - 서원전원 -->
+<div class="card" data-search="서원전원 이동현 팀장 010-3810-4112">
+  <div class="left">
+    <div class="name">서원전원</div>
+    <div class="phone">010-3810-4112</div>
+    <div class="sub">팀장 · 이동현 (BATTERY)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3810-4112">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="서원전원 고도형 계장 010-9248-7153">
+  <div class="left">
+    <div class="name">서원전원</div>
+    <div class="phone">010-9248-7153</div>
+    <div class="sub">계장 · 고도형 (BATTERY)</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9248-7153">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="서원전원 권해섭 사장 010-8490-3000">
+  <div class="left">
+    <div class="name">서원전원</div>
+    <div class="phone">010-8490-3000</div>
+    <div class="sub">사장 · 권해섭 (BATTERY) 041-522-8455</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-8490-3000">전화걸기</a>
+  </div>
+</div>
+
+
+<!-- UPS 외주검사 - 뉴피에스 -->
+<div class="card" data-search="뉴피에스 오현택 이사 010-8587-4474">
+  <div class="left">
+    <div class="name">뉴피에스</div>
+    <div class="phone">010-8587-4474</div>
+    <div class="sub">이사 · UPS 외주검사</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-8587-4474">전화걸기</a>
+  </div>
+</div>
+
+<!-- 행선안내/SETTOP PC - AK정보통신 -->
+
+<div class="card" data-search="AK정보통신 김경훈 이사 셋탑 SETTOP 010-2254-3194">
   <div class="left">
     <div class="name">AK정보통신</div>
-    <div class="phone">010-8886-1969</div>
-    <div class="sub">홍지택</div>
+    <div class="phone">010-2254-3194</div>
+    <div class="sub">이사 · SETTOP PC</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01088861969">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-2254-3194">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="게이트시스템 전성보">
+<!-- 전산 네트워크 - 얼라이드 -->
+<div class="card" data-search="얼라이드 이유권 대리 010-2823-7221">
+  <div class="left">
+    <div class="name">얼라이드</div>
+    <div class="phone">010-2823-7221</div>
+    <div class="sub">대리 · 통신자체LAN망</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2823-7221">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="얼라이드 이정일 차장 010-7466-7944">
+  <div class="left">
+    <div class="name">얼라이드</div>
+    <div class="phone">010-7466-7944</div>
+    <div class="sub">차장 · 통신자체LAN망</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-7466-7944">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="얼라이드 홍규태 053-782-6999">
+  <div class="left">
+    <div class="name">얼라이드</div>
+    <div class="phone">053-782-6999</div>
+    <div class="sub">홍규태 · 통신자체LAN망</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-782-6999">전화걸기</a>
+  </div>
+</div>
+
+<!-- 연장선 공사관련 - 문엔지니어링 -->
+<div class="card" data-search="문엔지니어링 김창호 상무 010-7334-3586">
+  <div class="left">
+    <div class="name">문엔지니어링</div>
+    <div class="phone">010-7334-3586</div>
+    <div class="sub">김창호 상무 · 감리</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-7334-3586">전화걸기</a>
+  </div>
+</div>
+
+<!-- SK C&C 연장선 담당 -->
+<div class="card" data-search="SK C&C 김지홍 부장 0324573462 01037486051">
+  <div class="left">
+    <div class="name">SK C&C</div>
+    <div class="phone">01037486051</div>
+    <div class="sub">부장 · 김지홍 · 032-457-3462</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01037486051">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="SK C&C 신성열 부장 0264003204 01037270153">
+  <div class="left">
+    <div class="name">SK C&C</div>
+    <div class="phone">01037270153</div>
+    <div class="sub">부장 · 신성열 · 02-6400-3204</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01037270153">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="SK C&C 조완희 과장 0222592891 01087433195">
+  <div class="left">
+    <div class="name">SK C&C</div>
+    <div class="phone">01087433195</div>
+    <div class="sub">과장 · 조완희 · 02-2259-2891</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01087433195">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="SK C&C 이효경 차장 0324573461 01071486225">
+  <div class="left">
+    <div class="name">SK C&C</div>
+    <div class="phone">01071486225</div>
+    <div class="sub">차장 · 이효경 · 032-457-3461</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01071486225">전화걸기</a>
+  </div>
+</div>
+
+
+<!-- 2014 대공원 공사관련 - 오무전력 -->
+<div class="card" data-search="오무전력 유해남 이사 010-3536-9955">
+  <div class="left">
+    <div class="name">오무전력</div>
+    <div class="phone">010-3536-9955</div>
+    <div class="sub">이사 · 총괄/음성유도기 등</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3536-9955">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="오무전력 문경식 대리 010-6698-2801">
+  <div class="left">
+    <div class="name">오무전력</div>
+    <div class="phone">010-6698-2801</div>
+    <div class="sub">대리 · 화상설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-6698-2801">전화걸기</a>
+  </div>
+</div>
+
+<!-- 2013년 캐노피 카메라 추가공사 - ?? -->
+<div class="card" data-search="?? 정재경 010-3826-8563">
+  <div class="left">
+    <div class="name">??</div>
+    <div class="phone">010-3826-8563</div>
+    <div class="sub">정재경 · 화상설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3826-8563">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="게이트시스템 조영환 010-4650-1516">
+  <div class="left">
+    <div class="name">게이트시스템</div>
+    <div class="phone">010-4650-1516</div>
+    <div class="sub">조영환 · 화상설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-4650-1516">전화걸기</a>
+  </div>
+</div>
+
+<!-- 광케이블, F/S케이블, STP케이블 - 게이트시스템 -->
+<div class="card" data-search="게이트시스템 정현식 이사 053-311-5533">
+  <div class="left">
+    <div class="name">게이트시스템</div>
+    <div class="phone">053-311-5533</div>
+    <div class="sub">정현식 · 광케이블, F/S케이블, STP케이블</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-311-5533">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="게이트시스템 유창재 과장 053-311-5533">
+  <div class="left">
+    <div class="name">게이트시스템</div>
+    <div class="phone">053-311-5533</div>
+    <div class="sub">유창재 · 광케이블, F/S케이블, STP케이블</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-311-5533">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="게이트시스템 이계원 대리 053-311-5533">
+  <div class="left">
+    <div class="name">게이트시스템</div>
+    <div class="phone">053-311-5533</div>
+    <div class="sub">이계원 · 광케이블, F/S케이블, STP케이블</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-311-5533">전화걸기</a>
+  </div>
+</div>
+
+<!-- 반월당~사월 - 동진통신 -->
+<div class="card" data-search="동진통신 박병두 부장 053-981-7070">
+  <div class="left">
+    <div class="name">동진통신</div>
+    <div class="phone">053-981-7070</div>
+    <div class="sub">부장 · 반월당~사월</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-981-7070">전화걸기</a>
+  </div>
+</div>
+
+<!-- 대경텔레콤 -->
+<div class="card" data-search="대경텔레콤 최병무 010-6658-4252">
+  <div class="left">
+    <div class="name">대경텔레콤</div>
+    <div class="phone">010-6658-4252</div>
+    <div class="sub">최병무 · 반월당~사월</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-6658-4252">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="세한정보통신 김태수 상무 656-1601">
+  <div class="left">
+    <div class="name">세한정보통신</div>
+    <div class="phone">656-1601</div>
+    <div class="sub">상무 · 김태수</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:656-1601">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="대창종합기계 배상모 사장 053-253-2521">
+  <div class="left">
+    <div class="name">대창종합기계</div>
+    <div class="phone">053-253-2521</div>
+    <div class="sub">사장 · 배상모</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-253-2521">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="유성정보통신 최우창 상무 053-741-0667">
+  <div class="left">
+    <div class="name">유성정보통신</div>
+    <div class="phone">053-741-0667</div>
+    <div class="sub">상무 · 최우창</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-741-0667">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="대동정보통신 장병천 소장 053-383-0303 01030456775">
+  <div class="left">
+    <div class="name">대동정보통신</div>
+    <div class="phone">010-3045-6775</div>
+    <div class="sub">소장 · 장병천 · 053-383-0303</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:01030456775">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="게이트시스템 정현식 이사 053-311-5533">
+  <div class="left">
+    <div class="name">게이트시스템</div>
+    <div class="phone">053-311-5533</div>
+    <div class="sub">이사 · 정현식</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-311-5533">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="대창텔레콤 박종대 사장 053-744-9093">
+  <div class="left">
+    <div class="name">대창텔레콤</div>
+    <div class="phone">053-744-9093</div>
+    <div class="sub">사장 · 박종대</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:053-744-9093">전화걸기</a>
+  </div>
+</div>
+
+
+<!-- TCMS - 로템 -->
+<div class="card" data-search="로템 이찬용">
+  <div class="left">
+    <div class="name">로템</div>
+    <div class="sub">이찬용 · TCMS</div>
+  </div>
+  <div class="right"></div>
+</div>
+
+<!-- 청원설비 - SK, 게이트시스템 -->
+<div class="card" data-search="게이트시스템 전성보 차장 010-8723-5535">
   <div class="left">
     <div class="name">게이트시스템</div>
     <div class="phone">010-8723-5535</div>
-    <div class="sub">전성보 · 차장</div>
+    <div class="sub">전성보 · 차장 · 청원설비</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01087235535">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-8723-5535">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="한국전파기지국 이현우">
+<div class="card" data-search="게이트시스템 허희평 010-8836-5526">
+  <div class="left">
+    <div class="name">게이트시스템</div>
+    <div class="phone">010-8836-5526</div>
+    <div class="sub">허희평 · 청원설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-8836-5526">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="게이트시스템 이두현 총괄 010-3115-0555">
+  <div class="left">
+    <div class="name">게이트시스템</div>
+    <div class="phone">010-3115-0555</div>
+    <div class="sub">이두현 · 총괄 · 청원설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3115-0555">전화걸기</a>
+  </div>
+</div>
+
+<!-- KT, LG U+ - 한국전파기지국 -->
+<div class="card" data-search="한국전파기지국 이현우 사원 010-6234-5219">
   <div class="left">
     <div class="name">한국전파기지국</div>
     <div class="phone">010-6234-5219</div>
-    <div class="sub">이현우 · 사원</div>
+    <div class="sub">이현우 · 사원 · KT/LG U+</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01062345219">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-6234-5219">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="우정이엔테크 신진">
+<div class="card" data-search="한국전파기지국 유선욱 과장 010-2233-3150">
+  <div class="left">
+    <div class="name">한국전파기지국</div>
+    <div class="phone">010-2233-3150</div>
+    <div class="sub">유선욱 · 과장 · KT/LG U+</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2233-3150">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="한국전파기지국 김갑명 매니져 010-2233-2985">
+  <div class="left">
+    <div class="name">한국전파기지국</div>
+    <div class="phone">010-2233-2985</div>
+    <div class="sub">김갑명 · 매니져 · KT/LG U+</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2233-2985">전화걸기</a>
+  </div>
+</div>
+
+<!-- 원우 -->
+<div class="card" data-search="원우 이득만 010-9775-1111">
+  <div class="left">
+    <div class="name">원우</div>
+    <div class="phone">010-9775-1111</div>
+    <div class="sub">이득만 · 원우</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9775-1111">전화걸기</a>
+  </div>
+</div>
+
+<!-- 경찰청TRS - 대구지방경찰청 -->
+<div class="card" data-search="경찰청 박철우">
+  <div class="left">
+    <div class="name">경찰청</div>
+    <div class="sub">박철우 · 대구지방경찰청 · 경찰청TRS</div>
+  </div>
+  <div class="right"></div>
+</div>
+
+<div class="card" data-search="경찰청 김규천 010-3350-4181">
+  <div class="left">
+    <div class="name">경찰청</div>
+    <div class="phone">010-3350-4181</div>
+    <div class="sub">김규천 · 경찰청TRS</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3350-4181">전화걸기</a>
+  </div>
+</div>
+
+<!-- 통합관리 - 대우엔지니어림 -->
+<div class="card" data-search="대우엔지니어림 심제희 010-5805-6123">
+  <div class="left">
+    <div class="name">대우엔지니어림</div>
+    <div class="phone">010-5805-6123</div>
+    <div class="sub">심제희 · 통합관리</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-5805-6123">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="CPS 계성일 주임 010-9566-9241">
+  <div class="left">
+    <div class="name">CPS</div>
+    <div class="phone">010-9566-9241</div>
+    <div class="sub">계성일 · 주임 · 통합영상</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9566-9241">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="지에스에이치 이응수 010-9566-9241">
+  <div class="left">
+    <div class="name">지에스에이치</div>
+    <div class="phone">010-9566-9241</div>
+    <div class="sub">이응수 · 통합네트워크</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-9566-9241">전화걸기</a>
+  </div>
+</div>
+
+<!-- V3 백신 - 코아인포메이션 -->
+<div class="card" data-search="코아인포메이션 최성욱 과장 010-2820-5544">
+  <div class="left">
+    <div class="name">코아인포메이션</div>
+    <div class="phone">010-2820-5544</div>
+    <div class="sub">최성욱 · 과장 · V3 백신</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2820-5544">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="코아인포메이션 이현민 010-4715-4302">
+  <div class="left">
+    <div class="name">코아인포메이션</div>
+    <div class="phone">010-4715-4302</div>
+    <div class="sub">이현민 · V3 백신</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-4715-4302">전화걸기</a>
+  </div>
+</div>
+
+<!-- 기타 잡다한 설비 - 우정이엔테크, 명문전자, 맥슨 CIC, 탑스전자, 메트영남 -->
+<div class="card" data-search="우정이엔테크 신진 010-3245-1263">
   <div class="left">
     <div class="name">우정이엔테크</div>
     <div class="phone">010-3245-1263</div>
-    <div class="sub">신진</div>
+    <div class="sub">신진 · 기타 잡다한 설비</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01032451263">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-3245-1263">전화걸기</a>
+  </div>
 </div>
 
-<div class="card" data-search="우정이엔테크 이창건">
+<div class="card" data-search="우정이엔테크 이창건 과장 010-5652-5754">
   <div class="left">
     <div class="name">우정이엔테크</div>
     <div class="phone">010-5652-5754</div>
-    <div class="sub">이창건</div>
+    <div class="sub">이창건 · 과장 · 기타 잡다한 설비</div>
   </div>
-  <div class="right"><a class="btn" href="tel:01056525754">전화걸기</a></div>
+  <div class="right">
+    <a class="btn" href="tel:010-5652-5754">전화걸기</a>
+  </div>
 </div>
-    
+
+<div class="card" data-search="명문전자 이정국 010-5522-1230">
+  <div class="left">
+    <div class="name">명문전자</div>
+    <div class="phone">010-5522-1230</div>
+    <div class="sub">이정국 · 기타 잡다한 설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-5522-1230">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="맥슨 CIC 김대석 과장 010-2084-2218">
+  <div class="left">
+    <div class="name">맥슨 CIC</div>
+    <div class="phone">010-2084-2218</div>
+    <div class="sub">김대석 · 과장 · 기타 잡다한 설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-2084-2218">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="탑스전자 서동훈 이사 010-3838-8339">
+  <div class="left">
+    <div class="name">탑스전자</div>
+    <div class="phone">010-3838-8339</div>
+    <div class="sub">서동훈 · 이사 · 계측기</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-3838-8339">전화걸기</a>
+  </div>
+</div>
+
+<div class="card" data-search="메트영남 이규식 대표 010-4502-1272">
+  <div class="left">
+    <div class="name">메트영남</div>
+    <div class="phone">010-4502-1272</div>
+    <div class="sub">이규식 · 대표 · 기타 설비</div>
+  </div>
+  <div class="right">
+    <a class="btn" href="tel:010-4502-1272">전화걸기</a>
+  </div>
+</div>
+
+
+   
       </div>
     </div>
   </div>
